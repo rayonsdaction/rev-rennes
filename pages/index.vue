@@ -47,7 +47,8 @@
         <h2 class="text-2xl font-extrabold tracking-tight sm:text-4xl">L’ambition de cette plateforme</h2>
         <ul class="text-l text-gray-500">
           <li>✅ <strong>Valoriser</strong> les avancées déjà réalisées par la métropole, qui font du REV un levier clé de la mobilité cyclable.</li>
-          <li>✅ <strong>Identifier</strong> les pistes d’amélioration, pour que le réseau réponde toujours mieux aux besoins des usagers.</li>
+          <li>⚠️ <strong>Alerter</strong> la métropole sur les points ou sections problématiques du réseau.</li>
+          <li>🔍 <strong>Identifier</strong> les pistes d’amélioration, pour que le réseau réponde toujours mieux aux besoins des usagers.</li>
         </ul>
       </div>
     </div>

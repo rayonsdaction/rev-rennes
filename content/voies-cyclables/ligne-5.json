@@ -52,7 +52,7 @@
         "line": 5,
         "id": "rueJeanPont",
         "name": "Rue Jean Pont",
-        "status": "wip",
+        "status": "done",
         "type": "velorue",
         "link": "/rev-rennes-5#rue-jean-pont"
       },
@@ -78,7 +78,7 @@
         "type": "danger",
         "name": "Rue Jean Pont sens unique",
         "line": 5,
-        "danger": "Contre sens cyclable. Sortie de rue. Problème de visibilité"
+        "danger": "Double sens cyclable. Sortie de rue périlleuse sur la rue de Nantes. Problèmes de visibilité"
       },
       "geometry": {
         "coordinates": [-1.6966710908189953, 48.09265854742725],
@@ -509,7 +509,7 @@
         "line": 5,
         "id": "valles1",
         "name": "Place Jules Valles",
-        "status": "wip",
+        "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-5#place-jules-valles"
       },
@@ -629,7 +629,7 @@
         "line": 5,
         "id": "reynel",
         "name": "Le Reynel",
-        "status": "wip",
+        "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-5#le-reynel"
       },
@@ -658,7 +658,7 @@
         "line": 5,
         "id": "accesKerLann",
         "name": "Accès Ker Lann",
-        "status": "wip",
+        "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-5#accès-ker-lann"
       },
@@ -691,8 +691,8 @@
         "line": 5,
         "id": "traverseeCampusNord",
         "name": "Traversée avenue Ker Lann au Nord du campus",
-        "status": "wip",
-        "type": "bandes-cyclables",
+        "status": "done",
+        "type": "bidirectionnelle",
         "link": "/rev-rennes-5#traversée-avenue-ker-lann-au-nord-du-campus"
       },
       "geometry": {
@@ -748,8 +748,8 @@
         "line": 5,
         "id": "campus",
         "name": "Campus de Ker Lann",
-        "status": "wip",
-        "type": "bandes-cyclables",
+        "status": "done",
+        "type": "bidirectionnelle",
         "link": "/rev-rennes-5#campus-de-ker-lann"
       },
       "geometry": {
@@ -775,8 +775,8 @@
         "line": 5,
         "id": "charreau",
         "name": "Nord rue Pierre Charreau",
-        "status": "wip",
-        "type": "bandes-cyclables",
+        "status": "done",
+        "type": "bidirectionnelle",
         "link": "/rev-rennes-5#nord-rue-pierre-charreau"
       },
       "geometry": {

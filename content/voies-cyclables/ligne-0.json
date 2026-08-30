@@ -1247,7 +1247,7 @@
         "line": 0,
         "id": "giratoireRonceray",
         "name": "Giratoire Ronceray (bd Hutin-Desgrées)",
-        "status": "postponed",
+        "status": "wip",
         "type": "bandes-cyclables",
         "link": "/rev-rennes-0#FIXME"
       },
@@ -1293,7 +1293,7 @@
         "line": 0,
         "id": "hutin2",
         "name": "Bd Hutin-Desgrées (jusqu'à rue Chateaugiron)",
-        "status": "postponed",
+        "status": "wip",
         "type": "bandes-cyclables",
         "link": "/rev-rennes-0#FIXME"
       },

@@ -17,7 +17,10 @@ module.exports = {
       typography: {
         DEFAULT: {
           css: {
-            a: { color: '#152B68' }
+            a: { color: '#152B68' },
+            // les tableaux servant de grille d'images ont un en-tete vide :
+            // on le masque pour supprimer le filet gris et son espacement
+            'thead:not(:has(th:not(:empty)))': { display: 'none' }
           }
         }
       }
