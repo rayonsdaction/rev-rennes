@@ -1,7 +1,7 @@
 ---
 title: Méthodologie
 description: Réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis.
-imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
+imageUrl: https://cyclopolis.rayonsdaction.org/cover-rayonsdaction.jpg
 ---
 
 *Pourquoi ce tronçon est marqué « terminé » alors qu’il n’y a eu aucuns travaux ?  

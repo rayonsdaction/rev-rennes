@@ -4,7 +4,7 @@ const TITLE = `Avancement du ${config.revName} par ${config.assoName}`;
 const DESCRIPTION =
   `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé rennais`;
 const BASE_URL = 'https://cyclopolis.rayonsdaction.org';
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const COVER_IMAGE_URL = 'https://cyclopolis.rayonsdaction.org/cyclopolis-rennes.jpg';
 
 export default defineNuxtConfig({
   app: {
@@ -24,8 +24,8 @@ export default defineNuxtConfig({
           content: DESCRIPTION
         },
         { hid: 'og:image', property: 'og:image', content: COVER_IMAGE_URL },
-        { property: 'og:image:width', content: '640' },
-        { property: 'og:image:height', content: '476' },
+        { property: 'og:image:width', content: '1200' },
+        { property: 'og:image:height', content: '630' },
         // twitter
         { name: 'twitter:card', content: 'summary_large_image' },
         { hid: 'twitter:url', name: 'twitter:url', content: BASE_URL },

@@ -13,7 +13,7 @@
 const { getRevName } = useConfig();
 
 const description = `Découvrez le plan officiel du ${getRevName()}`;
-const COVER_IMAGE_URL = 'https://www.mce-info.org/wp-content/uploads/2024/02/25-Rayons-d-action.webp';
+const COVER_IMAGE_URL = 'https://cyclopolis.rayonsdaction.org/cover-rayonsdaction.jpg';
 useHead({
   title: `Plan du ${getRevName()}`,
   meta: [

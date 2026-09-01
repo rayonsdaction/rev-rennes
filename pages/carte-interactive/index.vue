@@ -25,7 +25,7 @@ const features: Ref<Collections['voiesCyclablesGeojson']['features']> = computed
 
 const description =
   `Découvrez la carte interactive des ${getRevName()}. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.`;
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const COVER_IMAGE_URL = 'https://cyclopolis.rayonsdaction.org/cyclopolis-rennes.jpg';
 useHead({
   title: `Carte à jour du ${getRevName()}`,
   meta: [
